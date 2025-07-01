@@ -1,6 +1,6 @@
 # Prework - IOS101
 
-Submitted by: **Your Name Here**
+Submitted by: Mario Nolasco Cortez
 
 IOS101 is an app that showcases information about me including my name, university, career aspirations, and a photo of myself. It also features a button that changes the background color to a random color when pressed.”
 
