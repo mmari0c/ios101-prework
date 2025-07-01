@@ -30,13 +30,13 @@ Spotify
 
 - Seamless transition between devices
 
-2. Notion
+Notion
 
 - All-in-one workspace with databases, to-do lists, and calendars
 
 - Real-time collaboration and sharing
 
-4. Instagram
+Instagram
 
 - Story highlights for curating temporary content
 
