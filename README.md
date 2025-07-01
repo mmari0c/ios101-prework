@@ -24,6 +24,26 @@ GIF created with Kap
 
 ## App Brainstorming (Step 4)
 
+1. Spotify
+
+Personalized daily playlists based on listening habits
+
+Seamless transition between devices
+
+2. Notion
+
+All-in-one workspace with databases, to-do lists, and calendars
+
+Real-time collaboration and sharing
+
+4. Instagram
+
+Story highlights for curating temporary content
+
+Explore page that adapts to your interests over time
+
+I'd like to build an app called "Mind", designed to help users reflect on their emotional well-being throughout the day. The app would include features like quick mood check-ins and journaling prompts to encourage daily self-reflection. I also envision it as a semi-anonymous social network, where users can connect with trusted “friends” who help keep them accountable and supported. In addition, the app would provide educational content to help users learn more about mental health and foster a positive, supportive community.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
