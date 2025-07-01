@@ -46,11 +46,11 @@ I'd like to build an app called "Mind", designed to help users reflect on their 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had never used Xcode before, and there was a lot going on, I wasn’t sure where to find anything at first. It also ran pretty slowly for some reason. The project itself was simple, but the interface felt overwhelming with tools and panels everywhere. Still, it was really cool to create my first ever app!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Mario Nolasco Cortez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
